@@ -1,0 +1,107 @@
+2021-12-29 11:55:27 INFO  PetsController:82 - user is getting a pet by id
+2021-12-29 11:55:27 DEBUG PetsController:86 - pet id: 34
+2021-12-29 11:55:32 INFO  PetsController:27 - user is getting all available pets
+2021-12-29 11:55:32 DEBUG PetsController:31 - speciesSearch value: null
+2021-12-29 11:57:18 INFO  PetsController:27 - user is getting all available pets
+2021-12-29 11:57:18 DEBUG PetsController:31 - speciesSearch value: null
+2021-12-29 11:57:38 INFO  PetsController:27 - user is getting all available pets
+2021-12-29 11:57:38 DEBUG PetsController:31 - speciesSearch value: null
+2021-12-29 11:57:42 INFO  PetsController:82 - user is getting a pet by id
+2021-12-29 11:57:42 DEBUG PetsController:86 - pet id: 34
+2021-12-29 12:03:48 INFO  PetsController:82 - user is getting a pet by id
+2021-12-29 12:03:48 DEBUG PetsController:86 - pet id: 34
+2021-12-29 12:04:02 INFO  PetsController:27 - user is getting all available pets
+2021-12-29 12:04:02 DEBUG PetsController:31 - speciesSearch value: null
+2021-12-29 12:04:23 INFO  PetsController:27 - user is getting all available pets
+2021-12-29 12:04:23 DEBUG PetsController:31 - speciesSearch value: cat
+2021-12-29 12:05:43 INFO  PetsController:27 - user is getting all available pets
+2021-12-29 12:06:01 INFO  PetsController:27 - user is getting all available pets
+2021-12-29 12:06:06 INFO  PetsController:82 - user is getting a pet by id
+2022-01-04 17:12:23 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:12:23 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:20:27 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:20:27 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:21:58 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:21:58 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:24:53 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:24:53 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:25:18 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:25:18 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:26:11 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:26:11 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:27:06 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:27:06 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:27:19 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:27:19 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:28:00 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:28:00 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:28:17 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:28:17 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:28:44 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:28:44 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:31:14 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:31:14 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:32:56 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:32:56 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 17:40:01 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 17:40:01 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 18:04:43 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 18:04:43 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 18:10:15 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 18:10:15 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 18:10:31 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 18:10:31 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 18:11:39 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 18:11:39 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 18:11:42 INFO  PetsController:58 - user is adopting a pet
+2022-01-04 18:11:42 DEBUG PetsController:62 - id of pet to adopt: 47
+2022-01-04 18:11:42 DEBUG PetsController:65 - person adopting pet: Person [id=20, fullName=Richard Duenas, username=rduenas, password=pass, role=Role [id=1, name=User], pets=[]]
+2022-01-04 18:13:14 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 18:13:14 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 18:13:37 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 18:13:37 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-04 18:17:52 INFO  PetsController:27 - user is getting all available pets
+2022-01-04 18:17:52 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:23:15 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:23:15 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:23:18 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:23:18 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:33:07 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:33:07 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:33:07 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:33:07 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:34:34 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:34:34 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:34:34 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:34:34 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:35:25 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:35:25 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:38:22 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:38:22 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:38:22 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:38:22 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:39:28 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:39:28 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:39:29 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:39:29 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:39:29 INFO  PetsController:58 - user is adopting a pet
+2022-01-06 17:39:29 DEBUG PetsController:62 - id of pet to adopt: 28
+2022-01-06 17:39:29 DEBUG PetsController:65 - person adopting pet: Person [id=22, fullName=Romeo Erazo, username=rerazo, password=pass, role=Role [id=1, name=User], pets=[]]
+2022-01-06 17:43:12 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:43:12 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:43:13 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:43:13 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:43:13 INFO  PetsController:58 - user is adopting a pet
+2022-01-06 17:43:13 DEBUG PetsController:62 - id of pet to adopt: 42
+2022-01-06 17:43:13 DEBUG PetsController:65 - person adopting pet: Person [id=22, fullName=Romeo Erazo, username=rerazo, password=pass, role=Role [id=1, name=User], pets=[Pet [id=28, name=Jedediah, species=cat, description=Robust mission-critical benchmark, age=13, status=Status [id=2, name=Adopted]]]]
+2022-01-06 17:43:14 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:43:14 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:47:41 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:47:41 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:47:41 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:47:41 DEBUG PetsController:31 - speciesSearch value: null
+2022-01-06 17:47:41 INFO  PetsController:58 - user is adopting a pet
+2022-01-06 17:47:41 DEBUG PetsController:62 - id of pet to adopt: 9
+2022-01-06 17:47:41 DEBUG PetsController:65 - person adopting pet: Person [id=22, fullName=Romeo Erazo, username=rerazo, password=pass, role=Role [id=1, name=User], pets=[Pet [id=28, name=Jedediah, species=cat, description=Robust mission-critical benchmark, age=13, status=Status [id=2, name=Adopted]], Pet [id=28, name=Jedediah, species=cat, description=Robust mission-critical benchmark, age=13, status=Status [id=2, name=Adopted]], Pet [id=42, name=Zaria, species=bird, description=Streamlined national Graphical User Interface, age=5, status=Status [id=2, name=Adopted]]]]
+2022-01-06 17:47:42 INFO  PetsController:27 - user is getting all available pets
+2022-01-06 17:47:42 DEBUG PetsController:31 - speciesSearch value: null
